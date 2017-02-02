@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1357986",
+        "email": "testuser1@yandex.ua",
+        "name": "Andrey",
+	  	"surname": "Nikitenko",
+	    "phone": "+380954258711",
+        "password": "322e6eeaa1c49cb201a68bcff9b0567399ed4848e3b92046d063690616becaec"
+    },
+  	{
+	    "id": "09857986",
+	    "email": "andrey1@yandex.ua",
+	  	"name": "Andrey",
+		"surname": "Simonov",
+        "phone": "+380994265711",
+	    "password": "322e6eeaa1c49cb201a68bcff9b0567399ed4848e3b92046d063690616becaec"
+	},
+  	{
+	    "id": "2353986",
+	    "email": "andrey@yandex.ua",
+		"name": "Pavel",
+		"surname": "Karpenko",
+        "phone": "+380674251191",
+	    "password": "322e6eeaa1c49cb201a68bcff9b0567399ed4848e3b92046d063690616becaec"
+	}
+]
